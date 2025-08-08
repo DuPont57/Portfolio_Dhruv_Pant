@@ -18,7 +18,7 @@ Goal - Design, model (CAD), simulate (CFD), and build a homemade jet engine
 
 ### Python Scripts
 
-[] (Link coming soon!)
+[Python Scripts](https://github.com/DuPont57/Python-Scripts/)
 
 ### CAD Models
 

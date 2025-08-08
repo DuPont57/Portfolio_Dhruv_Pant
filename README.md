@@ -1,26 +1,25 @@
 # Portfolio_Dhruv_Pant
 
-Hi, I'm Dhruv Pant. Below are a few personal projects I have been working on
+## Projects
 
-## CATEGORY
+7/8/2025 - Present (ongoing)
+[Guide] (Link coming soon!)
+An exhaustive guide to performing CFD on ANSYS. Has everything from basic theory, to how to use ANSYS meshing/Fluent. Meant for interetsed beginners; no background in fluid dynamics required.
 
-[NAME] (LINK) - PROJECT PROGRESS
-
-
-
-### CFD Projects
-
-starte date- end date
-[Guide] (Link coming soon!) - Writing
-An Exhaustive guide
-
-[2D cylinder] (Link coming soon!) - Simulating
+7/15/2025 - Present (ongoing)
+[2D cylinder] (Link coming soon!)
 Practice with Ansys Fluent, modeling Re=20 and Re=100 Laminar flow over a cylinder. Results compared to well-documented benchmark for accuracy check.
 
-### CAD Projects
+7/1/2025 - Present (ongoing)
+[Jet engine] (Link coming soon!)
+Goal - Design, model (CAD), simulate (CFD), and build a homemade jet engine
 
+## Snippets
 
-### Python Projects
+### Python Scripts
 
-[]
-(Link coming soon!)
+[] (Link coming soon!)
+
+### CAD Models
+
+[] (Link coming soon!)
